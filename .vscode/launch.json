@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainClassifierTNorm",
+            "request": "launch",
+            "mainClass": "com.fss.MainClassifierTNorm",
+            "projectName": "FuzzyTest3",
+            "cwd": "${workspaceFolder}/ZAD 3 17.03.26"
+        }
+    ]
+}
