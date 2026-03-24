@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FanController",
+            "request": "launch",
+            "mainClass": "com.fss.FanController",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "MainClassifierTNorm",
             "request": "launch",
             "mainClass": "com.fss.MainClassifierTNorm",
