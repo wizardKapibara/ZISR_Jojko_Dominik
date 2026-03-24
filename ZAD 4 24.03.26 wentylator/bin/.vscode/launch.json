@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FanController",
+            "request": "launch",
+            "mainClass": "com.fss.FanController",
+            "projectName": "FuzzyFan",
+            "cwd": "${workspaceFolder}/ZAD 4 24.03.26"
+        }
+    ]
+}

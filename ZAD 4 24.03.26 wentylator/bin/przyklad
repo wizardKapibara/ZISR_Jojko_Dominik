@@ -1,0 +1,23 @@
+public static void main(String[] args) {
+		FuzzySet f = new FuzzySet();
+		FuzzySet g = new FuzzySet();
+		FuzzySet h = new FuzzySet();
+//		f.AddPoint(0,0);
+//		f.AddPoint(2,1);
+//		f.AddPoint(2.001,0);
+//		f.AddPoint(3,0);
+		f.newGaussian(4,0.5);
+		g.newGaussian(6,0.5);
+ 
+		TNorm t = OperationCreator.newTNorm(TNorm.TN_PRODUCT);
+		FuzzySet.processSetsWithNorm(h, f, g, t);
+		System.out.println("Zbiór f:" + f);
+		System.out.println("Zbiór g:" + g);
+		System.out.println("f *T g:" + h);
+		System.out.println("Wyostrzenie h:" + h.DeFuzzyfy());
+		h.PackFlatSections();
+		System.out.println("f *T g:" + h);
+		System.out.println("Wyostrzenie h:" + h.DeFuzzyfy());
+ 
+	    
+	}

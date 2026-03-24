@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClimateController",
+            "request": "launch",
+            "mainClass": "com.fss.ClimateController",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "FanController",
             "request": "launch",
             "mainClass": "com.fss.FanController",
