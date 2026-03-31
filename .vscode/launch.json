@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReasoningSystemTest",
+            "request": "launch",
+            "mainClass": "ReasoningSystemTest",
+            "projectName": "ClimateControllerRS"
+        },
+        {
+            "type": "java",
             "name": "ClimateController",
             "request": "launch",
             "mainClass": "com.fss.ClimateController",
@@ -22,6 +29,14 @@
             "mainClass": "com.fss.MainClassifierTNorm",
             "projectName": "FuzzyTest3",
             "cwd": "${workspaceFolder}/ZAD 3 17.03.26"
+        },
+        {
+            "type": "java",
+            "name": "ClimateControllerRS",
+            "request": "launch",
+            "mainClass": "com.fss.ClimateControllerRS",
+            "projectName": "ClimateControllerRS",
+            "cwd": "${workspaceFolder}/ZAD 6 31.03.26"
         }
     ]
 }

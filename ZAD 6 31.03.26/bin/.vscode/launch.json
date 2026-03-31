@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ClimateControllerRS",
+            "request": "launch",
+            "mainClass": "com.fss.ClimateControllerRS",
+            "projectName": "ClimateControllerRS",
+            "cwd": "${workspaceFolder}/ZAD 6 31.03.26"
+        }
+    ]
+}
