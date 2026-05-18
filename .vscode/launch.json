@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiabetesGUI",
+            "request": "launch",
+            "mainClass": "com.fss.DiabetesGUI",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "ReasoningSystemTest",
             "request": "launch",
             "mainClass": "ReasoningSystemTest",
@@ -37,6 +44,22 @@
             "mainClass": "com.fss.ClimateControllerRS",
             "projectName": "ClimateControllerRS",
             "cwd": "${workspaceFolder}/ZAD 6 31.03.26"
+        },
+        {
+            "type": "java",
+            "name": "AutoScalerController",
+            "request": "launch",
+            "mainClass": "com.fss.AutoScalerController",
+            "projectName": "AutoScalerFuzzy",
+            "cwd": "${workspaceFolder}/ZAD PROJEKT"
+        },
+        {
+            "type": "java",
+            "name": "DiabetesGUI",
+            "request": "launch",
+            "mainClass": "com.fss.DiabetesGUI",
+            "projectName": "DiabetesFuzzy",
+            "cwd": "${workspaceFolder}/ZAD PROJEKT CIĄŻA"
         }
     ]
 }
