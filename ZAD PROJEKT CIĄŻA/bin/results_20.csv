@@ -1,0 +1,21 @@
+Nr,Ciaze,Glukoza,Cisnienie,Skora,BMI,Wiek,Outcome,Ryzyko,PoziomRyzyka,Predykcja,Poprawny,EtykietaGl,EtykietaBMI,EtykietaCi,EtykietaCiaz,EtykietaWiek,EtykietaSkora
+1,6,148,72,35,33.6,50,1,49.22,UMIARKOWANE,1,TAK,podwyzszony,otylosc,normalne,umiarkowana,sredni,umiarkowana
+2,1,85,66,29,26.6,31,0,15.57,NISKIE,0,TAK,niski,nadwaga,niskie,malo,mlody,umiarkowana
+3,8,183,64,0,23.3,32,1,50.00,UMIARKOWANE,1,TAK,wysoki,norma,niskie,umiarkowana,mlody,brak danych
+4,1,89,66,23,28.1,21,0,16.34,NISKIE,0,TAK,niski,nadwaga,niskie,malo,mlody,mala
+5,0,137,40,35,43.1,33,1,50.00,UMIARKOWANE,1,TAK,podwyzszony,otylosc,niskie,malo,mlody,umiarkowana
+6,5,116,74,0,25.6,30,0,15.72,NISKIE,0,TAK,podwyzszony,nadwaga,normalne,umiarkowana,mlody,brak danych
+7,3,78,50,32,31.0,26,1,50.00,UMIARKOWANE,1,TAK,niski,nadwaga,niskie,malo,mlody,umiarkowana
+8,10,115,0,0,35.3,29,0,50.00,UMIARKOWANE,1,NIE,podwyzszony,otylosc,brak danych,duzo,mlody,brak danych
+9,2,197,70,45,30.5,53,1,67.61,WYSOKIE,1,TAK,wysoki,nadwaga,niskie,malo,sredni,umiarkowana
+10,8,125,96,0,0.0,54,1,50.00,UMIARKOWANE,1,TAK,podwyzszony,norma,wysokie,umiarkowana,sredni,brak danych
+11,4,110,92,0,37.6,30,0,50.00,UMIARKOWANE,1,NIE,niski,otylosc,wysokie,malo,mlody,brak danych
+12,10,168,74,0,38.0,34,1,67.82,WYSOKIE,1,TAK,wysoki,otylosc,normalne,duzo,mlody,brak danych
+13,10,139,80,0,27.1,57,0,42.64,UMIARKOWANE,0,TAK,podwyzszony,nadwaga,normalne,duzo,starszy,brak danych
+14,1,189,60,23,30.1,59,1,50.00,UMIARKOWANE,1,TAK,wysoki,nadwaga,niskie,malo,starszy,mala
+15,5,166,72,19,25.8,51,1,35.85,UMIARKOWANE,0,NIE,wysoki,nadwaga,normalne,umiarkowana,sredni,mala
+16,7,100,0,0,30.0,32,1,42.66,UMIARKOWANE,0,NIE,niski,nadwaga,brak danych,umiarkowana,mlody,brak danych
+17,0,118,84,47,45.8,31,1,50.00,UMIARKOWANE,1,TAK,podwyzszony,otylosc,normalne,malo,mlody,umiarkowana
+18,7,107,74,0,29.6,31,1,31.62,UMIARKOWANE,0,NIE,niski,nadwaga,normalne,umiarkowana,mlody,brak danych
+19,1,103,30,38,43.3,33,0,50.00,UMIARKOWANE,1,NIE,niski,otylosc,niskie,malo,mlody,umiarkowana
+20,1,115,70,30,34.6,32,1,28.79,NISKIE,0,NIE,podwyzszony,otylosc,niskie,malo,mlody,umiarkowana
